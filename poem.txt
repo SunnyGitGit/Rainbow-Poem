@@ -8,3 +8,4 @@ Blue
 Navy
 Purple
 These are the colours of the rainbow.
+Where is White?
